@@ -1,2 +1,2 @@
 # odin-recipes
-Recipees webiste using only html.
+Recipes webiste using only html.
